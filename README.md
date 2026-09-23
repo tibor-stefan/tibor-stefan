@@ -55,4 +55,4 @@ about where conversational voice actually breaks, and what it takes to make it f
 conversation rather than a pipeline. The write-up is
 **[here](https://github.com/tibor-stefan/gtm-guide)**.
 
-📍 Munich · 🗣️ German (native), English, French · ✉️ tibor.stefan@gmail.com
+📍 Munich · 🗣️ German (native), English, French · 💼 [LinkedIn](https://www.linkedin.com/in/tiborstefanger/)
