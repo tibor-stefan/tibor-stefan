@@ -26,20 +26,20 @@ architecture, the decisions behind it, and what broke.
 
 ### Projects
 
-**[GTM Guide](https://gtmguide.ai)** · voice-first hiring
+**[GTM Guide](https://gtmguide.ai)** · voice-first hiring<br>
 A candidate is interviewed by a conversational voice agent instead of filling in a form. Built
 on **ElevenLabs Conversational AI**, after a self-built stack failed, and later run head to
-head against OpenAI Realtime on the same question plan.
+head against OpenAI Realtime on the same question plan.<br>
 → **[Case study: shipping a production voice agent](https://github.com/tibor-stefan/gtm-guide)**
 
-**[VinoSomm](https://vinosomm.ai)** · wine recommendation that learns your taste
+**[VinoSomm](https://vinosomm.ai)** · wine recommendation that learns your taste<br>
 Tells you whether *you* will like a bottle, rather than what strangers rated it. Photograph a
-label or a whole wine list, get an answer in your own language.
+label or a whole wine list, get an answer in your own language.<br>
 → **[Case study](https://github.com/tibor-stefan/vinosomm)**
 
-**[Darli](https://apps.apple.com/de/app/darli-baby-schlaf-tracker/id6788437105)** · baby tracker, live on the App Store
+**[Darli](https://apps.apple.com/de/app/darli-baby-schlaf-tracker/id6788437105)** · baby tracker, live on the App Store<br>
 Sleep and rhythm tracking for new parents, designed to look like a lifestyle product rather
-than a medical form. A subscription business I also market myself.
+than a medical form. A subscription business I also market myself.<br>
 → **[Case study](https://github.com/tibor-stefan/darli)**
 
 ### On voice
